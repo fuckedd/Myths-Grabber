@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
+   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png](https://cdn.discordapp.com/attachments/1175478810016219268/1175776570707812432/1700086307_new_Lethal_Company_-_Memories.jpg?ex=656c7643&is=655a0143&hm=13026556930f7cde72653240e1bc5bc1ccce756afebf50ae4344f07c1f81439e&">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
    <br>
    <br>
-   <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
+   <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg](https://cdn.discordapp.com/attachments/1175478810016219268/1175776570707812432/1700086307_new_Lethal_Company_-_Memories.jpg?ex=656c7643&is=655a0143&hm=13026556930f7cde72653240e1bc5bc1ccce756afebf50ae4344f07c1f81439e&">
 </p>
 
 ## Project Status: Coming to an End
