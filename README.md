@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1175478810016219268/1175776570707812432/1700086307_new_Lethal_Company_-_Memories.jpg?ex=656c7643&is=655a0143&hm=13026556930f7cde72653240e1bc5bc1ccce756afebf50ae4344f07c1f81439e&">
+   <img  src="https://cdn.discordapp.com/attachments/1175478810016219268/1175777108191105044/image.png?ex=656c76c3&is=655a01c3&hm=cd35fc55ae276507fb994ac78a421f5f460301756f413bcd00d977dcffbed7c0&">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
    <br>
    <br>
-   <img src="https://cdn.discordapp.com/attachments/1175478810016219268/1175776570707812432/1700086307_new_Lethal_Company_-_Memories.jpg?ex=656c7643&is=655a0143&hm=13026556930f7cde72653240e1bc5bc1ccce756afebf50ae4344f07c1f81439e&">
+   <img src="https://cdn.discordapp.com/attachments/1175478810016219268/1175777108191105044/image.png?ex=656c76c3&is=655a01c3&hm=cd35fc55ae276507fb994ac78a421f5f460301756f413bcd00d977dcffbed7c0&">
 </p>
 
 ## Project Status: Coming to an End
