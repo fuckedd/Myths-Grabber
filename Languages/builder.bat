@@ -42,6 +42,5 @@ call :print "Hello, World!"
 call :print "Hello, World!"
 call :print "Hello, World!"
 call :print "Hello, World!"
-call :print "Hello, World!"
 
 endlocal
