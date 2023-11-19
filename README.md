@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
    <br>
    <br>
-   <img src="https://cdn.discordapp.com/attachments/1175478810016219268/1175777108191105044/image.png?ex=656c76c3&is=655a01c3&hm=cd35fc55ae276507fb994ac78a421f5f460301756f413bcd00d977dcffbed7c0&">
+   <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
 
 ## Project Status: Coming to an End
